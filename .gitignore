@@ -4,3 +4,4 @@ alpha_data_pipeline.ipynb
 .venv
 .ipynb_checkpoints
 *.csv
+outputs/*.png
